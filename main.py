@@ -18,12 +18,11 @@ No choice to make.
 Nothing to weigh.
 
 Set it all down for a moment.
+Thank you for reading them, too.
+
 There is a cup beside you,
 still warm,
-and the rain has stopped.
-
-That is all.
-Thank you for staying to the last line."""
+and the rain has stopped."""
 
 
 def main() -> None:
